@@ -14,8 +14,9 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker"
-				"GitHub.copilot"
+				"streetsidesoftware.code-spell-checker",
+				"GitHub.Copilot"
+				]
 			]
 		}
 	},
